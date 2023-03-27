@@ -1,0 +1,25 @@
+
+
+
+.containerGral{
+    display: flex;
+        flex-direction: column;
+        /* border: 20px solid #000; */
+        margin-top: 10%;
+        justify-content: center;
+        align-items: center;
+}
+
+.containerForm{
+ display: flex;
+            flex-direction: column;
+            width: 80%;
+            box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+                rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+            padding: 10px 15px;
+            border-radius: 8px;
+            /* border: 1px solid #000; */
+}
+
+
+
